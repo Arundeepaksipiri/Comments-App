@@ -1,0 +1,53 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+.name-container {
+  display: flex;
+  flex-direction: row;
+}
+.like-color {
+  color: #0ea5e9;
+}
+.name-icon {
+  height: 40px;
+  width: 40px;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.name {
+  align-self: center;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.time{
+  align-self: center;
+}
+
+/* Write your CSS here */
